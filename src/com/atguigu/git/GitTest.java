@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("Hello Git222!!!");
         System.out.println("Hello Git3333333!!!");
         System.out.println("Hello hot-fix branch");
+        System.out.println("Hello hot-fix branch2222222222222222222");
     }
 }
