@@ -8,5 +8,8 @@ public class GitTest {
         System.out.println("Hello hot-fix branch");
         System.out.println("Hello hot-fix branch2222222222222222222");
         System.out.println("Hello master branch111111111111");
+        System.out.println("SSH push test!");
+
+
     }
 }
